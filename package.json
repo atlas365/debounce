@@ -1,0 +1,22 @@
+{
+  "name": "debounce",
+  "version": "1.0.0",
+  "description": "Simple package with debounce function",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atlas365/debounce.git"
+  },
+  "keywords": [
+    "debounce"
+  ],
+  "author": "Trevor Smith <tjsmith.93@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/atlas365/debounce/issues"
+  },
+  "homepage": "https://github.com/atlas365/debounce#readme"
+}
